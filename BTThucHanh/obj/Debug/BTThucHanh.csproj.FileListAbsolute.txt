@@ -1,0 +1,12 @@
+C:\Users\ASUS\OneDrive\Tài liệu\SVien\N3_HK1\Lap_trinh_winform\BTThucHanh\BTThucHanh\bin\Debug\BTThucHanh.exe.config
+C:\Users\ASUS\OneDrive\Tài liệu\SVien\N3_HK1\Lap_trinh_winform\BTThucHanh\BTThucHanh\bin\Debug\BTThucHanh.exe
+C:\Users\ASUS\OneDrive\Tài liệu\SVien\N3_HK1\Lap_trinh_winform\BTThucHanh\BTThucHanh\bin\Debug\BTThucHanh.pdb
+C:\Users\ASUS\OneDrive\Tài liệu\SVien\N3_HK1\Lap_trinh_winform\BTThucHanh\BTThucHanh\obj\Debug\BTThucHanh.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Tài liệu\SVien\N3_HK1\Lap_trinh_winform\BTThucHanh\BTThucHanh\obj\Debug\BTThucHanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Tài liệu\SVien\N3_HK1\Lap_trinh_winform\BTThucHanh\BTThucHanh\obj\Debug\BTThucHanh.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Tài liệu\SVien\N3_HK1\Lap_trinh_winform\BTThucHanh\BTThucHanh\obj\Debug\BTThucHanh.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Tài liệu\SVien\N3_HK1\Lap_trinh_winform\BTThucHanh\BTThucHanh\obj\Debug\BTThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Tài liệu\SVien\N3_HK1\Lap_trinh_winform\BTThucHanh\BTThucHanh\obj\Debug\BTThucHanh.exe
+C:\Users\ASUS\OneDrive\Tài liệu\SVien\N3_HK1\Lap_trinh_winform\BTThucHanh\BTThucHanh\obj\Debug\BTThucHanh.pdb
+C:\Users\ASUS\OneDrive\Tài liệu\SVien\N3_HK1\Lap_trinh_winform\BTThucHanh\BTThucHanh\obj\Debug\BTThucHanh.fLogin.resources
+C:\Users\ASUS\OneDrive\Tài liệu\SVien\N3_HK1\Lap_trinh_winform\BTThucHanh\BTThucHanh\obj\Debug\BTThucHanh.frm_Bai2.resources
